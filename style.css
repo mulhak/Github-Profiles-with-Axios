@@ -48,6 +48,17 @@ body {
     margin: 0 1.5rem;
 
 }
+.cardRed {
+    max-width: 800px;
+    background-color:red ;
+    border-radius: 20px;
+    box-shadow:  0 5px 30px rgba(154, 160, 185,0 ),
+    0 15px 40px rgba(0,0,0,0.1);
+    display: flex;
+    padding: 3rem;
+    margin: 0 1.5rem;
+
+}
 .avatar {
 
     border-radius: 50%;
